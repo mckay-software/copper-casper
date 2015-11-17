@@ -10,7 +10,7 @@ body {
   color: #EEE;
 }
 
-a {
+a, h1, h2, h3, h4, h5, h6 {
   color: #DDD;
 }
 
@@ -39,5 +39,23 @@ a:hover {
 
 .post-date {
   border-left-color: #BB8229;
+}
+
+code, tt {
+  background: #111;
+  border-color: #222;
+}
+
+pre {
+  background: #111;
+  border-color: #BB8229;
+}
+
+blockquote {
+  border-left-color: #BB8229;
+}
+
+.post-footer h4 a {
+  color: #DDD;
 }
 
