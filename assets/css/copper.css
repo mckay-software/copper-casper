@@ -1,3 +1,7 @@
 .site-wrapper, .main-header.no-cover {
   background-color: black;
 }
+
+.no-cover .page-title, .no-cover .page-description {
+  color: white;
+}
