@@ -8,8 +8,8 @@ McKay's copper-on-black theme for [Ghost](http://github.com/tryghost/ghost/).
 
 ## Copyright & License
 
-Copyright (c) 2015 McKay Software
-Copyright (c) 2013-2015 Ghost Foundation
+- Copyright © 2015 McKay Software
+- Copyright © 2013-2015 Ghost Foundation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
