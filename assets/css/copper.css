@@ -5,3 +5,39 @@
 .no-cover .page-title, .no-cover .page-description {
   color: white;
 }
+
+body {
+  color: #EEE;
+}
+
+a {
+  color: #DDD;
+}
+
+a:hover {
+  color: white;
+}
+
+.post-meta {
+  color: #CCC;
+  font-size: 1.7rem;
+}
+
+.post {
+  border-bottom-color: #BB8229;
+}
+
+.post::after {
+  border-color: #BB8229;
+  box-shadow: #BB8229 0 0 0 5px;
+  background: #BB8229;
+}
+
+.read-more {
+  color: #BB8229;
+}
+
+.post-date {
+  border-left-color: #BB8229;
+}
+
