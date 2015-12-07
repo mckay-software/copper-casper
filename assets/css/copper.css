@@ -46,9 +46,16 @@ code, tt {
   border-color: #222;
 }
 
-pre {
+pre, pre[class*="language-"] {
   background: #111;
-  border-color: #BB8229;
+  border: 1px solid #BB8229;
+  border-radius: 0.2em;
+}
+
+.prism-show-language-label {
+  background-color: #BB8229;
+  font-family: sans-serif;
+  color: white;
 }
 
 blockquote {
