@@ -16,7 +16,8 @@
 
     <link rel="stylesheet" href="{{asset "css/casper.css"}}" />
     <link rel="stylesheet" href="{{asset "css/copper.css"}}" />
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:300,300italic,700,700italic|Oswald:300,700" />
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:300,300italic,700,700italic|Oswald:300,700" async />
+    <link rel="stylesheet" href="{{asset "css/prism.css"}}" async />
 
     {{ghost_head}}
 </head>
@@ -37,6 +38,7 @@
     <script src="//cdn.jsdelivr.net/g/jquery@2,fitvids@1"></script>
 
     {{! Casper behaviours }}
-    <script src="{{asset "js/casper.js"}}"></script>
+    <script src="{{asset "js/casper.js"}}" async></script>
+    <script src="{{asset "js/prism.js"}}" async></script>
 </body>
 </html>
