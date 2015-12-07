@@ -53,9 +53,9 @@ pre, pre[class*="language-"] {
 }
 
 .prism-show-language-label {
-  background-color: #BB8229;
-  font-family: sans-serif;
-  color: white;
+  background-color: #BB8229 !important;
+  font-family: sans-serif !important;
+  color: white !important;
 }
 
 blockquote {
