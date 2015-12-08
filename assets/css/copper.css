@@ -52,10 +52,10 @@ pre, pre[class*="language-"] {
   border-radius: 0.2em;
 }
 
-.prism-show-language-label {
-  background-color: #BB8229 !important;
-  font-family: sans-serif !important;
-  color: white !important;
+div.prism-show-language > div.prism-show-language-label[data-language] {
+  background-color: #BB8229;
+  border-radius: 0.2em;
+  font: 400 0.8em Oswald, sans-serif;
 }
 
 blockquote {
