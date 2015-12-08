@@ -76,7 +76,7 @@ figure {
   margin-bottom: 1.5em;
 }
 
-figure > pre {
+figure > pre, figure pre[class*="language-"] {
   margin-bottom: 0.5em;
 }
 
