@@ -18,6 +18,11 @@ a:hover {
   color: white;
 }
 
+p, ul, ol, dl {
+  text-align: justify;
+  widows: 3;
+}
+
 .post-meta {
   color: #CCC;
   font-size: 1.7rem;
@@ -50,6 +55,7 @@ pre, pre[class*="language-"] {
   background: #111;
   border: 1px solid #BB8229;
   border-radius: 0.2em;
+  margin-bottom: 1.5em;
 }
 
 div.prism-show-language > div.prism-show-language-label[data-language] {
@@ -66,3 +72,14 @@ blockquote {
   color: #DDD;
 }
 
+figure {
+  margin-bottom: 1.5em;
+}
+
+figure > pre {
+  margin-bottom: 0.5em;
+}
+
+figcaption {
+  font: 0.55em sans-serif;
+}
