@@ -1,5 +1,7 @@
 # Copper Casper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mckay-software/copper-casper.svg)](https://greenkeeper.io/)
+
 McKay's copper-on-black theme for [Ghost](http://github.com/tryghost/ghost/).
 
 ![screenshot from 2015-11-17 17-30-31](https://cloud.githubusercontent.com/assets/155787/11202800/0e0b8528-8d51-11e5-9e6d-1fbe85b361ee.png)
